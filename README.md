@@ -31,4 +31,6 @@ npm run start-dev
 
 ## Postman Documentation
 
+Base Network API : https://joblyst-api-cpe5hpucwa-uc.a.run.app
+
 [Postman API Documentation](https://documenter.getpostman.com/view/23141895/2s9YeMznps)
